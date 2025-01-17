@@ -7,7 +7,7 @@ import (
 )
 
 
-// Database connection
+// Database connection 
 type Database struct {
 	*gorm.DB
 }
